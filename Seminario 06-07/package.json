@@ -1,0 +1,14 @@
+{
+  "name": "seminario6-zmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clientBroker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zeromq": "^5.2.0"
+  }
+}
